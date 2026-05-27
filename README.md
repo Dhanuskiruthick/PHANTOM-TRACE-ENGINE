@@ -99,8 +99,8 @@ Console output (analyst-ready)
 
 ### Step 1: Clone the Repository
 ```bash
-git clone https://github.com/yourusername/phantom-trace-engine.git
-cd phantom-trace-engine
+git clone https://github.com/dhanuskiruthick/PHANTOM-TRACE-ENGINE.git
+cd PHANTOM-TRACE-ENGINE
 ```
 
 ### Step 2: Install Dependencies
