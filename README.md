@@ -1,4 +1,5 @@
 # 🧠 Phantom Trace Engine – Passive Network Intelligence System
+<img width="1022" height="698" alt="image" src="https://github.com/user-attachments/assets/d2e88252-e314-4cbf-99e5-90419f6c9dfb" />
 
 A lightweight Python-based network intelligence tool that captures and analyzes real-time packet traffic, performing protocol-level analysis and basic threat detection at the packet layer.
 
